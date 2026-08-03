@@ -39,8 +39,8 @@ I am a passionate **Data Science and Data Engineering enthusiast** focused on bu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Amirhossein375&show_icons=true&theme=onedark" alt="Amirhossein's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Amirhossein375&layout=compact&theme=onedark" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Amirhossein375/Amirhossein375/main/profile-summary-card-output/onedark/profile-details.svg" alt="Amirhossein's GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/Amirhossein375/Amirhossein375/main/profile-summary-card-output/onedark/most-commit-language.svg" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
