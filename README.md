@@ -36,6 +36,19 @@ I am a passionate **Data Science and Data Engineering enthusiast** focused on bu
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirhossein375&show_icons=true&theme=onedark" alt="Amirhossein's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein375&layout=compact&theme=onedark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossein375&theme=onedark" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🔭 What I'm Currently Learning
 * Deep Learning and Computer Vision (CNNs, Conv2D, Edge Detection) using **PyTorch**.
 * Advanced NLP and Semantic Search architectures.
