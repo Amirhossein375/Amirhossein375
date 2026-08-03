@@ -39,8 +39,8 @@ I am a passionate **Data Science and Data Engineering enthusiast** focused on bu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirhossein375&theme=onedark" alt="Amirhossein's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirhossein375&theme=onedark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Amirhossein375&show_icons=true&theme=onedark" alt="Amirhossein's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Amirhossein375&layout=compact&theme=onedark" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -57,11 +57,11 @@ I am a passionate **Data Science and Data Engineering enthusiast** focused on bu
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amirhossein375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-zare)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amirhossein375)
 
 * **GitHub:** [Amirhossein375](https://github.com/Amirhossein375)
-* **LinkedIn:** [Amirhossein375](https://linkedin.com/in/Amirhossein375) *(اگر یوزرنیم لینکدینت با گیت‌هابت متفاوت است، این یوزرنیم را در فایل ویرایش کن)*
+* **LinkedIn:** [Amir-Hossein Zare](https://www.linkedin.com/in/amir-hossein-zare)
 
 ---
 *“Moving from 0 to 1, one line of code at a time.”*
